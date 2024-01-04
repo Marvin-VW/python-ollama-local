@@ -8,6 +8,7 @@ This project enables hands-free voice interactions through a local installation 
 
 Ensure you have the following Python libraries and tools installed:
 
+- [ollama](https://github.com/jmorganca/ollama)
 - [gtts](https://pypi.org/project/gTTS/): `pip install gtts`
 - [pygame](https://pypi.org/project/pygame/): `pip install pygame`
 - [langchain](https://pypi.org/project/langchain/): `pip install langchain`
