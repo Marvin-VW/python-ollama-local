@@ -18,7 +18,7 @@ Ensure you have the following Python libraries and tools installed:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/voice-interaction-project.git
+   git clone https://github.com/Marvin-VW/python-ollama-local/blob/main/main.py
    cd voice-interaction-project
    ```
 
