@@ -1,0 +1,4 @@
+gtts
+pygame
+langchain
+SpeechRecognition
