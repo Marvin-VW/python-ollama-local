@@ -1,11 +1,6 @@
 # python-ollama-local
 This Python script enables hands-free interaction with a local Llama2 language model. It captures voice commands from the microphone, sends them to Llama2 for natural language processing, and converts the model's textual responses into speech.
 
-
-**Project README for GitHub**
-
-# Voice Interaction Project
-
 ## Overview
 
 This project enables hands-free voice interactions through a local installation of the Llama2 language model. Users can provide voice commands, which are then processed by Llama2 for natural language understanding. The textual responses are converted into speech using the "edge-tts" tool, and the generated audio is played back sequentially.
